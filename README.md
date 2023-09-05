@@ -1,2 +1,3 @@
-# CODECLAUSEEINTERNSHIP_YOUTUBE_CLONE
-Golden Project -youtube clone
+# tech a intern
+
+social media app -youtube clone
